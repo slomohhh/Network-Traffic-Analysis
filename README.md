@@ -61,7 +61,7 @@ cd network-traffic-analysis
 sudo apt-get install libpcap-dev
 
 # Compile
-g++ -std=c++17 src/*.cpp -lpcap -o network_analyzer
+g++ -std=c++17 network_analyzer.cpp -lpcap -o network_analyzer
 
 # Run (requires sudo for raw packet capture)
 sudo ./network_analyzer --interface eth0 --output reports/output.txt
