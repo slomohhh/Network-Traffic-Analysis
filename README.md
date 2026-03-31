@@ -54,7 +54,7 @@ network-traffic-analysis/
 
 ```bash
 # Clone the repo
-git clone https://github.com/moh-k-06276933b/network-traffic-analysis.git
+git clone https://github.com/slomohhh/network-traffic-analysis.git
 cd network-traffic-analysis
 
 # Install libpcap (Linux)
