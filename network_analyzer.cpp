@@ -1,6 +1,6 @@
 /*
  * Network Traffic Analysis Tool
- * Author: Moh Khan
+ * Author: Mohammad Khan
  *
  * Description:
  *   Captures and analyzes network packets in real-time via a network interface
